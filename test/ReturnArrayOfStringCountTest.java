@@ -5,7 +5,7 @@ import static org.junit.jupiter.api.Assertions.*;
 class ReturnArrayOfStringCountTest {
     @Test
     void returnArrayOfStringCount() {
-        String value = ""
+        String value = "";
     }
 
 }
